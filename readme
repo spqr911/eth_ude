@@ -1,0 +1,3 @@
+
+npm install --save solc
+npm install --save mocha ganache-cli web3 
