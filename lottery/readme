@@ -1,0 +1,11 @@
+
+npm install --save solc
+npm install --save mocha ganache-cli web3 
+npm install --save truffle-hdwallet-provider
+https://rinkeby.infura.io/v3/0394e6a3e414461180437f7c07f16a8c
+
+
+
+
+Attempting to deploy from account 0xFF7679C4449FF29C4C88533D90bb041610E35c75
+Contract deployed to 0x4114E2A711D03C61B0F9833De250a372B55A8D37
